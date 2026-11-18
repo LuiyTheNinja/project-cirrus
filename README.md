@@ -1,7 +1,7 @@
 # project-cirrus
 AWS attack-and-defense range with Terraform: I deploy intentionally misconfigured cloud environments, exploit them, detect the attacks with CloudTrail and GuardDuty, automate remediation, and publish the findings as pentest reports.
 
-## Milestones (they follow your study plan)
+## Milestones 
 | #   | When                                                   | Milestone                                                                                                                                                          | Skills shown          |
 | --- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- |
 | 0   | **Sun Nov 15**                                         | Create the repo, README with the vision, `.gitignore`, gitleaks pre-commit, draw an architecture sketch                                                            | Git, project planning |
